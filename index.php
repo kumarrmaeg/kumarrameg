@@ -251,14 +251,14 @@
 										Here's My Few Works.
 									</p>				
 									<ul id="portfolio" class="auto-construct  project-gallery" data-col="2">
-										<li class="item small" >
+										<li class="item small"  data-src="img/tneb.png" data-sub-html="<h6>Tnebeaengineers</h6>" >
 											<a href="https://tnebeaengineers.in/" target="_blank">
 											<img class="img-responsive" src="img/tneb.png"  alt="Image description" />
 											<span class="hover-cap">Tnebeaengineers</span>
 											</a>
 										</li>
 
-										<li class="item small" >
+										<li class="item small"  data-src="img/prith.png" data-sub-html="<h6>Prithvifx</h6>">
 											<a href="https://prithvifx.com/">
 											<img class="img-responsive" src="img/prith.png"  alt="Image description" />
 											<span class="hover-cap">Prithvifx</span>
