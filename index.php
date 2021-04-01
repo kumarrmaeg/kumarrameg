@@ -289,9 +289,9 @@
 									
 									
 									<ul>
-									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> Completed “Advanced SQL & MySQL” course at udemy.</li>
-									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> Java Programming Masterclass for Software Developers course at udemy.</li>
-									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> The Complete Python Course in the Professional OOP Approach course at udemy.</li>
+									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> Completed “Advanced SQL & MySQL” course at Udemy.</li>
+									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> Completed Java Programming Masterclass for Software Developers course at Udemy.</li>
+									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> On progress Java Spring Tutorial Masterclass course at Udemy..</li>
 									</ul>
 								<!-- </p> -->
 								<div class="qualfication-wrap">
@@ -353,7 +353,7 @@
 		</span>
 														<span class="job-loc"> Galaxy Weblinks Inc
 		</span>
-														<p class="job-summary p-small">"A developer in Galaxy weblinks, working with an experience to complete the projects assigned to me with competitive approch and a powerful thinking which originated by self practising to taste that result in future to the utmost"</p>
+														<p class="job-summary p-small">"A developer in Galaxy weblinks, working with an experience to complete the projects assigned to me with competitive approach and a powerful thinking which originated by self practising to taste that result in future to the utmost"</p>
 													</div>
 												</div>	
 											</div>
