@@ -502,7 +502,7 @@
 											</a>
 										</div>
 										<div class="copywrite-wrap text-right float-right">
-											<p class="copywrite">Fabricated by <b>Ramkumar &copy; 2019.</b> Updated <b>Feb, 2021.</b></p>
+											<p class="copywrite">Fabricated by <b>Ramkumar &copy; 2019.</b> Updated <b>Apr, 2021.</b></p>
 										</div>
 									</div>	
 								</div>	
