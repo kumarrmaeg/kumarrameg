@@ -291,7 +291,11 @@
 									<ul>
 									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> Completed “Advanced SQL & MySQL” course at Udemy.</li>
 									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> Completed Java Programming Masterclass for Software Developers course at Udemy.</li>
-									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> On progress Java Spring Tutorial Masterclass course at Udemy..</li>
+									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> Completed ROS for Beginners: Basics, Motion, and OpenCV course at Udemy.
+									  </li>
+									  <li><span class="fa" data-hover="&#xf02d;">&#xf02d;</span> Completed ROS for Beginners II: Localization, Navigation and SLAM course at Udemy.
+									  </li>
+									   
 									</ul>
 								<!-- </p> -->
 								<div class="qualfication-wrap">
